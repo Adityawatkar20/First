@@ -9,7 +9,7 @@ import React, { Component } from 'react'
             type:"",
             brand:"",
             price:"",
-            image:""
+            
         }
     }
 
