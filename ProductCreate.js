@@ -1,5 +1,5 @@
 import { Button, TextField } from '@material-ui/core'
-import React, { Component } from 'react'
+import React, { Component } from 'react
 
  class ProductCreate extends Component {
     constructor(){
@@ -9,7 +9,7 @@ import React, { Component } from 'react'
             type:"",
             brand:"",
             price:"",
-            
+            image:""
         }
     }
 
